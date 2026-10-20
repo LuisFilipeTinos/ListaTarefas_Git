@@ -1,0 +1,68 @@
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.exe
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.deps.json
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.runtimeconfig.json
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.Form1.resources
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.GenerateResource.cache
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfoInputs.cache
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfo.cs
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\refint\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.genruntimeconfig.cache
+C:\Users\lftin\Downloads\IntroWinForms (1)\IntroWinForms\obj\Debug\net10.0-windows\ref\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.exe
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.deps.json
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.runtimeconfig.json
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.Form1.resources
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.GenerateResource.cache
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfoInputs.cache
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfo.cs
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.sourcelink.json
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\refint\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.genruntimeconfig.cache
+C:\Users\lftin\Downloads\IntroWinForms\IntroWinForms\obj\Debug\net10.0-windows\ref\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.exe
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.deps.json
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.runtimeconfig.json
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.Form1.resources
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.Properties.Resources.resources
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.GenerateResource.cache
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfoInputs.cache
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfo.cs
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.sourcelink.json
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\refint\IntroWinForms.dll
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.genruntimeconfig.cache
+C:\Users\lftin\Downloads\IntroWinForms_Aula\IntroWinForms\obj\Debug\net10.0-windows\ref\IntroWinForms.dll
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.exe
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.deps.json
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.runtimeconfig.json
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\bin\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.Form1.resources
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.Properties.Resources.resources
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.GenerateResource.cache
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfoInputs.cache
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.AssemblyInfo.cs
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.dll
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\refint\IntroWinForms.dll
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.pdb
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\IntroWinForms.genruntimeconfig.cache
+C:\Users\luis.tinos\Downloads\ListaTarefas_WindowsForms_ProgComp-master\ListaTarefas_WindowsForms_ProgComp-master\IntroWinForms\obj\Debug\net10.0-windows\ref\IntroWinForms.dll
