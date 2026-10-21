@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b7cf47f1253d48b100727d30bd33e05c26a8617")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

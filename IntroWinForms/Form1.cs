@@ -142,6 +142,7 @@ namespace IntroWinForms
         private void ChkMostrarConcluidasCheckedChanged(object sender, EventArgs e)
         {
             AtualizarLista();
+            // Teste de versionamento
         }
     }
 }
